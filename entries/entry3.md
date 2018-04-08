@@ -20,7 +20,9 @@ This is the code that is needed to render JSX. But what does it mean?
 `<h1>Hello world</h1>`: This is the first argument being passed to `ReactDOM.render()`. `ReactDOM.render()`'s first argument should be a JSX expression, and it will be rendered to the screen.
 
 `document.getElementById('app')`: This shows where on the screen should that first argument appear. So this could be in the HTML file, and the id of a div or container could be `app`.
-
+#### Passing a Variable to `ReactDOM.render()`
+<img src="../images/appjs.jpg"/>
+credit: Codecademy ReactJS
 ## Takeaways
 I
 ## Resources:
