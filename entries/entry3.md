@@ -23,7 +23,10 @@ This is the code that is needed to render JSX. But what does it mean?
 #### Passing a Variable to `ReactDOM.render()`
 <img src="../images/appjs.jpg"/>
 credit: Codecademy ReactJS
+Instead of having a block of text and code snippets to explain this one, I found out that an annotated picture is useful.
+
 ## Takeaways
-I
+I learned that it is very helpful to keep track of your learning by documenting it. I also find it useful to understand a new idea or concept I learned by portraying in in a diagram, or annotated picture. I have done this in the past and it is not only great to strengthen your understanding, but in the future this can be a quick reference to something you may have forgotten.
+
 ## Resources:
 https://www.codecademy.com/courses/react-101
