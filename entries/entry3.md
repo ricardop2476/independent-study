@@ -1,4 +1,4 @@
-# Entry 3: 
+# Entry 3: Rendering JSX
 
 ## ReactJS Vocabulary
 It is very important to get familiar with a new languages vocabulary. This is so that when you are reading forms or resources online, you understand what it saying, and when you google a problem you can use the terminology you know. In order to keep track of vocabulary I created my own documentation of it in a Google Doc. This was very useful to do because it made me look at this vocabulary again, and when I did not understand something I could refer to this. It is also a place where I store rules and other notes that might be helpful in the future.
