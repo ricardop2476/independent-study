@@ -7,3 +7,6 @@
 + [Entry 3: Rendering JSX](entries/entry3.md)
 + [Entry 4: React Components](entries/entry4.md)
 + [Entry 5: this.props](entries/entry5.md)
++ [Entry 6: ]
++ [Entry 7: ]
++ [Entry 8: Expo & MVP](entries/entry8.md)
