@@ -47,6 +47,8 @@ This will render "Hi there, Ricardo!" on the screen.
 The most common use of props is to pass information to a component, from a different component. Let's say you have one file, Greeting.js that has a class Greeting. You also have another file App.js. This file has various other information, however we want to input the result of Greeting.js in this file. We want to to pass a prop to a <Greeting /> component instance, from an <App /> component instance. This is how we would do it:
 <img src="../images/propsapp.jpg"/>
 <img src="../images/propsgreet.jpg"/>
+
+## 
 ## Takeaways
 During my learning process this week I found it very useful to keep track of my learning by keeping my notes updated. Not only do I have a place to keep my notes, but it is also very useful for my entries. This entry is pretty much all of the information I documented throughout the week. That way at the end of the week I don't have to dig through much resources or remember what I wanted to put in my blog entry. Link to my Google Doc:
 https://docs.google.com/document/d/1lTAp4qC2NWLlWhCdMuiQrSZRcGZk1uqE0mILxqt83sY/edit?usp=sharing 
