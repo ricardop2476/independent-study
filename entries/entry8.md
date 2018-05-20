@@ -8,8 +8,7 @@ While writing all of my code in JSX, and then letting Babel configure my code in
 <img src="../images/stack.png"/>
 This works well however I do not need the user to press a button and then the prompt pops up! I thought to my self, no problem; when the user clicks the next link (which I could add the onClick attribute as so: 
 ``` javascript 
-<Link to="/example3" id="link" onClick={()=>{ alert('alert'); }}
->Next</Link>) 
+<Link to="/example3" id="link" onClick={()=>{ alert('alert'); }} >Next</Link>) 
 ``` 
 then it would work. The issue with this was that it would pop up before it went to the next page, where I wanted it to be. To solve this I Googled more Javascript Events and found the OnLoad event, which execute immediately after a page has been loaded. I added this to the intentional page like so: 
 ``` javascript 
@@ -18,3 +17,4 @@ then it would work. The issue with this was that it would pop up before it went 
 and it worked!
 
 ## Takeaways
+One takeaway that i would have is that you should use the resources that you have in front of you. In my context I used a template that already had a basic react router setup. As long as you have attempted it and understand how the component works, it is a time saver and you can learn from it.
